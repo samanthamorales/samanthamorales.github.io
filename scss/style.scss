@@ -887,7 +887,7 @@ img {
     float: left;
     position: relative;
     z-index: 2;
-    width: 33.3333334%;
+    width: 25%;
     overflow: hidden;
     @include trans-duration(500ms);
     @media #{$breakpoint-xs} {
